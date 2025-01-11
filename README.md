@@ -10,6 +10,7 @@ Use your **Terminal**
 
 ```
 git clone https://github.com/jamieede123/battroyal.git
+cd ./battroyal
 python ./gptroyale.py
 ```
 
